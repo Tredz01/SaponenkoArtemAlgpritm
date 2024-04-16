@@ -18,3 +18,8 @@ replit https://replit.com/@saspsasp
 Форма гугл - https://docs.google.com/spreadsheets/d/1G_48xXlYGALXe_7AwIbQF4GDzZeHMVQy5Sa6bUV3YM0/edit#gid=304746539
 
 форма - https://forms.gle/FYjp9ToNVT8WSRzc8 
+
+
+
+
+колаб ссылка https://colab.research.google.com/drive/1FrgLhlRusCCRYXTJS1Q3YffTCVCBLKQh?usp=sharing
